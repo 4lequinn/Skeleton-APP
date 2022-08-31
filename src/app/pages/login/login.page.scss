@@ -1,0 +1,43 @@
+.contenedor-titulo {
+    height: 200px;
+    padding: 10px;
+}
+
+.contenedor-titulo ion-title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.contenedor-titulo .titulo2{
+    display: block;
+    text-align: center;
+}
+
+.contenedor-titulo .titulo3{
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+    font-size: 40px;
+}
+
+.formulario-login{
+    height: 250px;
+    padding: 30px;
+}
+
+.formulario-login .item-login {
+    margin: 10px 0 10px 0;
+}
+
+.formulario-login ion-button {
+    height: 40px;
+}
+
+.crear-cuenta {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
